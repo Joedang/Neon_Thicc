@@ -1,1 +1,9 @@
-bottom-right-inactive.xpm
+/* XPM */
+static char * bottom_left_inactive_xpm[] = {
+"4 4 2 1",
+" 	c None",
+".	c #1A1E24",
+"....",
+"....",
+" ...",
+"  .."};
