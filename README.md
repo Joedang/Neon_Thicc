@@ -3,6 +3,8 @@ This is a branch of the Neon Knights Blue theme for XFCE4 by Jorge Domingo Cabre
 It's essentially the same, but it uses 4 px wide borders, rather than 1 px.
 This makes it much easier to grab the window borders for resizing with a mouse.
 
+![preview with very small windows](https://github.com/joedang/Neon_Thicc/blob/master/preview.png)
+
 ## Installation
 Put the `Neon_Thicc` directory in `$HOME/.themes/`
 
