@@ -9,3 +9,4 @@ Put the `Neon_Thicc` directory in `$HOME/.themes/`
 ## Changing the Color
 Use the `modulate.sh` script to create a new theme with different coloration.
 See the comments of `modulate.sh` for usage.
+This requires ImageMagick and Bash (though many other shells would probably work).
